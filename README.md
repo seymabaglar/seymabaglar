@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seyma Baglar</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-![HEHEhe](https://media.giphy.com/media/p4w0AMZJa2EtG/giphy.gif)
 
 
 ![roodzcode](https://github.com/seymabaglar/seymabaglar/assets/131670644/776fbc4b-1632-4723-9c60-495803adb9f0)
