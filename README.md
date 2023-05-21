@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
 ![HEHEhe](https://media.giphy.com/media/p4w0AMZJa2EtG/giphy.gif)
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed"></iframe>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
