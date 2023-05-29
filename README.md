@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seyma Baglar</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70914&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-</p>
 
 
 ![giphy](https://github.com/seymabaglar/seymabaglar/assets/131670644/f32b77f6-0a4e-4691-9b3f-cfdaf9cfaaff)
