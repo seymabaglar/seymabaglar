@@ -9,7 +9,7 @@
 
 <p align="left">
 </p>
-<div align="center">
+<div align="center" display="flex">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=seymabaglar&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/seymabaglar)
