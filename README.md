@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyma Baglar</h1>
 
-
- ![giphy](https://github.com/seymabaglar/seymabaglar/assets/131670644/f32b77f6-0a4e-4691-9b3f-cfdaf9cfaaff)
-
-
-<h3 align="left">Connect with me:</h3>
-
-
 <p align="left">
 </p>
 <div align="center" display="flex">
