@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 <div align="center" display="flex">
-<h2 align="center" style="margin: 8px 15px;">Github Stats:</h2> 
+<h2 align="center" style="margin: 9px 15px;">Github Stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=seymabaglar&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/seymabaglar)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=seymabaglar&theme=material-palenight)](https://github.com/seymabaglar)
